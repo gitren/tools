@@ -188,6 +188,7 @@ tools
 - android
 - eclipse
 - genymotion 
+- HierarchyViewer  // Android UI 优化
 
   
 
