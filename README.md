@@ -77,7 +77,6 @@ tools
 * mindmanager
 
   
-
 ## Firewalls 
 * Lantern
 * 谷歌访问助手
@@ -122,18 +121,21 @@ tools
 * Virtualbox 
 * crossover
 
----
+## db
+* dbeaver
+
+
 
 # iOS开发环境
   
 ## 开发工具 
-* intellij IDEA //java
-* Appcode  //OC
-* coderunner  //OC、python
+* intellij IDEA     //java
+* Appcode           //OC
+* coderunner        //OC、python
 
   
 ## 调试工具 
-* reveal //UI查看错误，不能够修改
+* reveal     //UI查看错误，不能够修改
 * ponyDebug  //测试网络
 
   
@@ -164,30 +166,30 @@ tools
 
   
 ## 命令行 
-* homeBrew //like apt-get 
+* homeBrew    //like apt-get 
 * macports
-* gem //Rudy安装
-* cocoapods //第三方依赖包
+* gem         //Rudy安装
+* cocoapods   //第三方依赖包
 * Carthage
    
 ## codec
 
-* encodingconversion(编码转换)
+* encodingconversion  // (编码转换)
 * easyfind
-* dash
+* dash                // API查看文档
 * peep
 * unetbootin
 * Microsoft remote desktop
 * remote mouse
 
 
-## db
-* dbeaver
 
-## android
-- android
+
+# android
+
+- android studio
 - eclipse
-- genymotion 
+- genymotion       // 模拟器
 - HierarchyViewer  // Android UI 优化
 
   
