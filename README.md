@@ -1,7 +1,7 @@
 # tools
 tools 
 
-## epub 
+### epub 
 * sigil 
 * jutoh
 * calibre
@@ -18,7 +18,7 @@ tools
 * gitbook 
 
   
-## markdown 
+### markdown 
 * haroopad
 * markpad
 * markdownpad
@@ -28,7 +28,7 @@ tools
 * typora
 
   
-## txt 
+### txt 
 * vim
 * notepad++
 * atom
@@ -38,25 +38,19 @@ tools
 
   
 
-## C++ 
+### C++ 
 * codeblocks
 * Qt
 
   
-
-## ios 
-* xcode
-
-  
-
-## html/css 
+### html/css 
 * Emmet
 * coderunner
 * webstorm
 
   
 
-## git
+### git
 * sourcetree
 * tortoisegit
 * cornerstone
@@ -64,20 +58,20 @@ tools
 * gitX
 * tower
 
-## svn 
+### svn 
 * tortoisesvn
 * smartsvn
 * svnx
 
   
 
-## mind 
+### mind 
 * freemind
 * xmind
 * mindmanager
 
   
-## Firewalls 
+### Firewalls 
 * Lantern
 * 谷歌访问助手
 * 鱼摆摆
@@ -85,78 +79,78 @@ tools
 * lanscan
 
   
-## 软件管理
+### 软件管理
 * 腾讯软件管家独立版
   
 
-## 音乐music 
+### 音乐music 
 * audacity
 * vox
 * neteaseMusic
     
-## 视频video 
+### 视频video 
 * openshot
 * shotcut
 * OBS studio
 
   
-## 草图工具/原型工具 
+### 草图工具/原型工具 
 * omnigraffle
 * axurerp
 * modao
 
-## 私有云
+### 私有云
 * seafile
 * ownclound
 
   
 
-## 局域网共享
+### 局域网共享
 * nitroshare
 * resilio sync
 * freedownmanager
 
  
-## VM
+### VM
 * Virtualbox 
 * crossover
 
-## db
+### db
 * dbeaver
 
 
 
 # iOS开发环境
   
-## 开发工具 
+### 开发工具 
 * intellij IDEA     //java
 * Appcode           //OC
 * coderunner        //OC、python
 
   
-## 调试工具 
+### 调试工具 
 * reveal     //UI查看错误，不能够修改
 * ponyDebug  //测试网络
 
   
-## web应用程序测试工具 
+### web应用程序测试工具 
 * selenium
 
   
-## 云测试 
+### 云测试 
 * Testin
 * 百度云
 * testbird
 
  
-## 分发测试
+### 分发测试
 
 * Cordova蒲公英  //分发测试
 * testfilght
 * fir
 
   
-## 框架 
+### 框架 
 * appium
 * appcan
 * phoneGap
@@ -165,14 +159,14 @@ tools
 * AFNetwork
 
   
-## 命令行 
+### 命令行 
 * homeBrew    //like apt-get 
 * macports
 * gem         //Rudy安装
 * cocoapods   //第三方依赖包
 * Carthage
    
-## codec
+### codec
 
 * encodingconversion  // (编码转换)
 * easyfind
